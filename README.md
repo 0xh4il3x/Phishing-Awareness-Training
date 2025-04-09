@@ -49,9 +49,6 @@ The goal of this presentation is to:
 
 We encourage organizations and individuals to use this material for internal training or personal education. Understanding phishing is a key defense in today's cybersecurity landscape.
 
-## 📌 License
-
-This content is provided for educational purposes only.
 
 ---
 
